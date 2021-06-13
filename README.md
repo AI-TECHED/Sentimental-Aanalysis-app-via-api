@@ -21,7 +21,7 @@ Open your browser as indicated to http://127.0.0.1:8000 and you should see:
 
 {"message":"This is the sentiment analysis app"}
 
-We can try using the browser address bar to make some requests, by passing value with query string (http://127.0.0.1:8000/sentiment_analysis/?text="This is product is good and cost effective"
+We can try using the browser address bar to make some requests, by passing value with query string (http://127.0.0.1:8000/sentiment_analysis/?text=" This product is good and cost effective"
 
 After executing the next script (i.e.,rest_request.py) and you should get a result like this:
 
