@@ -29,6 +29,8 @@ query = {'text':'i hate this product and would not definitely recommend this to 
 
 python rest_request.py
 
+For the above query you will get the below output:
+
 >>> {'sentiment': 'very negative', 'probability': 0.8194750882148743}
 
 
